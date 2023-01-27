@@ -1,1 +1,1 @@
-# Classifying Visualized Audio Files by CNN
+# Classifying Visualized Audio Files by CNN Project
